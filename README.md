@@ -9,6 +9,9 @@ It makes it easier for photographers to make it easier for steady shots, either 
 
 The operating gear shifter is about $6.00. 
 
+![image_480](https://github.com/user-attachments/assets/bb5e5007-830f-4c8e-bf4a-57149122c214)
+
+
 ## How to Obtain the Device
 ### Do-it-Yourself (DIY) or Do-it-Together (DIT)
 
@@ -56,20 +59,20 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 
 ## Attribution
 <!--- Provide any necessary attribution for designs or components that are included in the device or as part of the project. --->
-The device was designed by Caighley Espardinez, Jake Murakami, Alex Ott, and Kendall Sullivan. 
+The device was designed by Jake Murakami, Noel Raehl, Ethan Caldecott, Devinn Chi. 
 
 <!--- This is the attribution for the template. --->
-The documentation was written by Caighley Espardinez, Jake Murakami, Alex Ott, and Kendall Sullivan.
+The documentation was written by Jake Murakami, Noel Raehl, Ethan Caldecott, and Devinn Chi.
 
 ### Contributors
 <!--- List the names of the people that contributed to the design. This could include the original source of the idea, designers, testers, documenters, etc. --->
 Designers:
- - Caighley Espardinez
+ - Devinn Chi 
  - Jake Murakami
- - Alex Ott
- - Kendall Sullivan
+ - Noel Raehl
+ - Ethan Caldecott
 
-Assisted with Soldering and Drilling:
+Assisted with Soldering and Helping formulate Arduino code and related materials:
  - Dave Bailey
 
 Outlined and Assisted with Overall Project:
