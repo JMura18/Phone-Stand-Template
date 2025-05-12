@@ -22,17 +22,17 @@ This is an open-source assistive technology, so anyone is free to build it. All 
 
 ### 1. Order the Off-The-Shelf Components
 
-The [Bill of Materials](/Documentation/Switch_Adapted_Water_Gun_BOM.pdf) lists all of the parts and components required to build the device.
+The [Servo_Phone_Stand_Bill_of_Materials.pdf](/Documentation/Servo_Phone_Stand_Bill_of_Materials.pdf) lists all of the parts and components required to build the device.
 
-### 2. Print the 3D Printable components
+### 2. Print the 3D Printable Components
 
 All of the files and individual print files can be found in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
 
-Reference the [3D Printing Guide](/Documentation/Switch_Adapted_Water_Gun_3D_Printing_Guide.docx.pdf) for the tools and steps required to print the base.
+Reference the [Servo_Phone_Mount_3D_Printing_Guide.pdf](/Documentation/Servo_Phone_Mount_3D_Printing_Guide.pdf) for the tools and steps required to print the base.
 
-### 3. Assemble the Water Gun
+### 3. Assemble the Phone Stand
 
-Reference the [Assembly Guide](/Documentation/Switch_Adapted_Water_Gun_Assembly_Guide.pdf) for the tools and steps required to build the device.
+Reference the [Rotating_Phone_Stand_Assembly_Guide.pdf](/Documentation/Rotating_Phone_Stand_Assembly_Guide.pdf) for the tools and steps required to build the device.
 
 ## How to improve this Device
 As open source assistive technology, you are welcomed and encouraged to improve upon the design. 
