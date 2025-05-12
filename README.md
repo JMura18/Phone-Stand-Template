@@ -38,7 +38,7 @@ Follow the [Rotating_Phone_Stand_Assembly_Guide.pdf](/Documentation/Rotating_Pho
 ### 4. Read Through the User Guide  
 The [Rotating_Phone_Stand_User_Guide.pdf](/Documentation/Rotating_Phone_Stand_User_Guide.pdf) contains detailed usage tips, safety information, and final setup/testing procedures to ensure the device functions as intended.
 
-## How to improve this Device
+## How to Improve this Device
 As open source assistive technology, you are welcomed and encouraged to improve upon the design. 
 
 ## Files
