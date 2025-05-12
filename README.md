@@ -59,15 +59,15 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 
 ## Attribution
 <!--- Provide any necessary attribution for designs or components that are included in the device or as part of the project. --->
-The device was designed by Caighley Espardinez, Jake Murakami, Alex Ott, and Kendall Sullivan. 
+The device was designed by Jake Murakami, Noel Raehl, Ethan Caldecott, Devinn Chi. 
 
 <!--- This is the attribution for the template. --->
-The documentation was written by Caighley Espardinez, Jake Murakami, Alex Ott, and Kendall Sullivan.
+The documentation was written by Jake Murakami, Noel Raehl, Ethan Caldecott, and Devinn Chi.
 
 ### Contributors
 <!--- List the names of the people that contributed to the design. This could include the original source of the idea, designers, testers, documenters, etc. --->
 Designers:
- - Devin Chi 
+ - Devinn Chi 
  - Jake Murakami
  - Noel Raehl
  - Ethan Caldecott
