@@ -3,7 +3,7 @@
 
 ## Overview
 <!--- A brief summary of the project. What it does, who it is for, how much it costs. --->
-In this project, we were able to create a rotating camera stand. 
+In this project, we were able to create an automatic button-operated rotating camera stand. 
 
 It makes it easier for photographers to make it easier for steady shots, either photo or video. 
 
