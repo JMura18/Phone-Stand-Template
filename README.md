@@ -53,7 +53,7 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 | Assembly Guide       | 1.0     | [Rotating_Phone_Stand_Assembly_Guide.pdf](/Documentation/Rotating_Phone_Stand_Assembly_Guide.pdf) |
 | Bill of Materials    | 1.0     | [Servo_Phone_Stand_Bill_of_Materials.pdf](/Documentation/Servo_Phone_Stand_Bill_of_Materials.pdf) |
 | User Guide           | 1.0     | [Rotating_Phone_Stand_User_Guide.pdf](/Documentation/Rotating_Phone_Stand_User_Guide.pdf)         |
-| Maker Checklist*     | 1.0     | [Rotating_Phone_Stand_Maker_Checklist.pdf](/Documentation/Rotating_Phone_Stand_Maker_Checklist.pdf)                                                                                                  |
+| Maker Checklist    | 1.0     | [Rotating_Phone_Stand_Maker_Checklist.pdf](/Documentation/Rotating_Phone_Stand_Maker_Checklist.pdf)                                                                                                  |
 
 ### Design Files
 <!--- Include a copy of the original design files to facilitate easy editing and customization. Consider also including a generic format (e.g., STEP) --->
