@@ -9,6 +9,8 @@ It makes it easier for photographers to make it easier for steady shots, either 
 
 The operating gear shifter is about $6.00. 
 
+https://files.slack.com/files-pri/T0F19MNUD-F08RY92US05/image.png
+
 ## How to Obtain the Device
 ### Do-it-Yourself (DIY) or Do-it-Together (DIT)
 
