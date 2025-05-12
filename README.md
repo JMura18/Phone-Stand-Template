@@ -7,7 +7,7 @@ In this project, we were able to create a 360-degree camera stand.
 
 It makes it easier for photographers to make it easier for steady shots, either photo or video. 
 
-The operating gear shifter is about $4.00. 
+The operating gear shifter is about $6.00. 
 
 ## How to Obtain the Device
 ### Do-it-Yourself (DIY) or Do-it-Together (DIT)
