@@ -25,19 +25,18 @@ This is an open-source assistive technology, so anyone is free to build it. All 
 ## Build Instructions
 <!--- Outline the major steps required to create a build --->
 
-### 1. Order the Off-The-Shelf Components
-
+### 1. Order the Off-The-Shelf Components  
 The [Servo_Phone_Stand_Bill_of_Materials.pdf](/Documentation/Servo_Phone_Stand_Bill_of_Materials.pdf) lists all of the parts and components required to build the device.
 
-### 2. Print the 3D Printable Components
+### 2. Print the 3D Printable Components  
+All files are located in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.  
+Use the [Servo_Phone_Mount_3D_Printing_Guide.pdf](/Documentation/Servo_Phone_Mount_3D_Printing_Guide.pdf) to guide your prints.
 
-All of the files and individual print files can be found in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
+### 3. Assemble the Phone Stand  
+Follow the [Rotating_Phone_Stand_Assembly_Guide.pdf](/Documentation/Rotating_Phone_Stand_Assembly_Guide.pdf) for step-by-step build instructions.
 
-Reference the [Servo_Phone_Mount_3D_Printing_Guide.pdf](/Documentation/Servo_Phone_Mount_3D_Printing_Guide.pdf) for the tools and steps required to print the base.
-
-### 3. Assemble the Phone Stand
-
-Reference the [Rotating_Phone_Stand_Assembly_Guide.pdf](/Documentation/Rotating_Phone_Stand_Assembly_Guide.pdf) for the tools and steps required to build the device.
+### 4. Read Through the User Guide  
+The [Rotating_Phone_Stand_User_Guide.pdf](/Documentation/Rotating_Phone_Stand_User_Guide.pdf) contains detailed usage tips, safety information, and final setup/testing procedures to ensure the device functions as intended.
 
 ## How to improve this Device
 As open source assistive technology, you are welcomed and encouraged to improve upon the design. 
