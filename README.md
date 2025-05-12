@@ -57,11 +57,12 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 
 ### Design Files
 <!--- Include a copy of the original design files to facilitate easy editing and customization. Consider also including a generic format (e.g., STEP) --->
- - [CAD File](/Design_Files/Water_Gun_Base.obj)
+- [Phone_Stand_Parts.obj](/Design_Files/Phone%20Stand%20Parts.obj)
+- [Servo_Base.obj](/Design_Files/Servo_Base.obj)
 
 ### Build Files
 <!--- Include a copy of the build files intended for manufacturing. This may include svg files for laser cutting, stl files for 3d printing, Gerber files for custom PCBs, and Arduino files for custom firmware. --->
- - [3D Printing Files](/Build_Files/3D_Printing_Files)
+- [3D Printing Files](/Build_Files/3D_Printing_Files)
 
 ## Attribution
 <!--- Provide any necessary attribution for designs or components that are included in the device or as part of the project. --->
