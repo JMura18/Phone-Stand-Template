@@ -1,17 +1,13 @@
 <!--- TITLE --->
-# Switch Adapted Water Gun
+# Switch Operated Rotating Phone Stand 
 
 ## Overview
 <!--- A brief summary of the project. What it does, who it is for, how much it costs. --->
-The Switch Adapted Water Gun is an assistive technology device that allows a 3.5mm assistive switch to trigger the water gun. 
+In this project, we were able to create a 360-degree camera stand. 
 
-The device is comprised of off-the-shelf parts and 3D printed parts. 
+It makes it easier for photographers to make it easier for steady shots, either photo or video. 
 
-The Switch Adapted Water Gun is open assistive technology (OpenAT). Under the terms of the open source licenses, the device may be built, used, and improved upon by anyone.
-
-The overall cost of materials is about $15.
-
-<img src="Photos/Complete_Adapted_Water_Gun.jpeg" width="500" alt="Picture of Switch Adapted Water Gun.">
+The operating gear shifter is about $4.00. 
 
 ## How to Obtain the Device
 ### Do-it-Yourself (DIY) or Do-it-Together (DIT)
