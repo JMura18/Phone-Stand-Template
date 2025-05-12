@@ -45,14 +45,15 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 ## Files
 ### Documentation
 <!--- Update the name, link, and version for documentation --->
-| Document             | Version | Link |
-|----------------------|---------|------|
-| Design Rationale     | 1.0     | [Switch Adapted_Design_Rationale](/Documentation/Switch_Adapted_Water_Gun_Design_Rationale.pdf)    |
-| 3D Printing Guide    | 1.0     | [Switch Adapted Water Gun 3D Printing Guide](/Documentation/Switch_Adapted_Water_Gun_3D_Printing_Guide.docx.pdf)    |
-| Assembly Guide       | 1.0     | [Switch Adapted Water Gun Assembly Guide](/Documentation/Switch_Adapted_Water_Gun_Assembly_Guide.pdf)    |
-| Bill of Materials    | 1.0     | [Switch Adapted Water Gun_Bill_of_Materials](/Documentation/Switch_Adapted_Water_Gun_BOM.pdf)    |
-| User Guide           | 1.0     | [Switch Adapted Water Gun_User_Guide](/Documentation/Switch_Adapted_Water_Gun_User_Guide.pdf)   |
-| Maker Checklist      | 1.0     | [Switch Adapted Water Maker Checklist](/Documentation/Switch_Adapted_Water_Gun_Maker_Checklist.pdf)   |
+
+| Document             | Version | Link                                                                 |
+|----------------------|---------|----------------------------------------------------------------------|
+| Design Rationale*    | 1.0     |                                                                                                   |
+| 3D Printing Guide    | 1.0     | [Servo_Phone_Mount_3D_Printing_Guide.pdf](/Documentation/Servo_Phone_Mount_3D_Printing_Guide.pdf) |
+| Assembly Guide       | 1.0     | [Rotating_Phone_Stand_Assembly_Guide.pdf](/Documentation/Rotating_Phone_Stand_Assembly_Guide.pdf) |
+| Bill of Materials    | 1.0     | [Servo_Phone_Stand_Bill_of_Materials.pdf](/Documentation/Servo_Phone_Stand_Bill_of_Materials.pdf) |
+| User Guide           | 1.0     | [Rotating_Phone_Stand_User_Guide.pdf](/Documentation/Rotating_Phone_Stand_User_Guide.pdf)         |
+| Maker Checklist*     | 1.0     |                                                                                                   |
 
 ### Design Files
 <!--- Include a copy of the original design files to facilitate easy editing and customization. Consider also including a generic format (e.g., STEP) --->
