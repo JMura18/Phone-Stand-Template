@@ -48,7 +48,7 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 
 | Document             | Version | Link                                                                 |
 |----------------------|---------|----------------------------------------------------------------------|
-| Design Rationale*    | 1.0     |                                                                                                   |
+| Design Rationale    | 1.0     |       [Rotating_Phone_Stand_Design_Rationale.pdf](/Documentation/Rotating_Phone_Stand_Design_Rationale.pdf)                                                                                             |
 | 3D Printing Guide    | 1.0     | [Servo_Phone_Mount_3D_Printing_Guide.pdf](/Documentation/Servo_Phone_Mount_3D_Printing_Guide.pdf) |
 | Assembly Guide       | 1.0     | [Rotating_Phone_Stand_Assembly_Guide.pdf](/Documentation/Rotating_Phone_Stand_Assembly_Guide.pdf) |
 | Bill of Materials    | 1.0     | [Servo_Phone_Stand_Bill_of_Materials.pdf](/Documentation/Servo_Phone_Stand_Bill_of_Materials.pdf) |
