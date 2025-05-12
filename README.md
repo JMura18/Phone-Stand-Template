@@ -12,6 +12,11 @@ The operating gear shifter is about $6.00.
 ![image_480](https://github.com/user-attachments/assets/bb5e5007-830f-4c8e-bf4a-57149122c214)
 
 
+## Short Demo Video
+https://github.com/user-attachments/assets/6819dd64-cb07-463f-bd0d-7a98d3ec8850
+
+
+
 ## How to Obtain the Device
 ### Do-it-Yourself (DIY) or Do-it-Together (DIT)
 
