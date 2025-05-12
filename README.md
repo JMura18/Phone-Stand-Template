@@ -62,7 +62,8 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 
 ### Build Files
 <!--- Include a copy of the build files intended for manufacturing. This may include svg files for laser cutting, stl files for 3d printing, Gerber files for custom PCBs, and Arduino files for custom firmware. --->
-- [3D Printing Files](/Build_Files/3D_Printing_Files)
+- [Phone_Stand_Parts.stl](/Build_Files/3D_Printing_Files/Phone_Stand_Parts.stl)
+- [Servo_Base.stl](/Build_Files/3D_Printing_Files/Servo_Base.stl)
 
 ## Attribution
 <!--- Provide any necessary attribution for designs or components that are included in the device or as part of the project. --->
