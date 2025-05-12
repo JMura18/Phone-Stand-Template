@@ -67,12 +67,12 @@ The documentation was written by Caighley Espardinez, Jake Murakami, Alex Ott, a
 ### Contributors
 <!--- List the names of the people that contributed to the design. This could include the original source of the idea, designers, testers, documenters, etc. --->
 Designers:
- - Caighley Espardinez
+ - Devin Chi 
  - Jake Murakami
- - Alex Ott
- - Kendall Sullivan
+ - Noel Raehl
+ - Ethan Caldecott
 
-Assisted with Soldering and Drilling:
+Assisted with Soldering and Helping formulate Arduino code and related materials:
  - Dave Bailey
 
 Outlined and Assisted with Overall Project:
