@@ -12,6 +12,11 @@ The operating gear shifter is about $6.00.
 ![image_480](https://github.com/user-attachments/assets/bb5e5007-830f-4c8e-bf4a-57149122c214)
 
 
+## Short Demo Video
+https://github.com/user-attachments/assets/6819dd64-cb07-463f-bd0d-7a98d3ec8850
+
+
+
 ## How to Obtain the Device
 ### Do-it-Yourself (DIY) or Do-it-Together (DIT)
 
@@ -22,17 +27,17 @@ This is an open-source assistive technology, so anyone is free to build it. All 
 
 ### 1. Order the Off-The-Shelf Components
 
-The [Bill of Materials](/Documentation/Switch_Adapted_Water_Gun_BOM.pdf) lists all of the parts and components required to build the device.
+The [Servo_Phone_Stand_Bill_of_Materials.pdf](/Documentation/Servo_Phone_Stand_Bill_of_Materials.pdf) lists all of the parts and components required to build the device.
 
-### 2. Print the 3D Printable components
+### 2. Print the 3D Printable Components
 
 All of the files and individual print files can be found in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
 
-Reference the [3D Printing Guide](/Documentation/Switch_Adapted_Water_Gun_3D_Printing_Guide.docx.pdf) for the tools and steps required to print the base.
+Reference the [Servo_Phone_Mount_3D_Printing_Guide.pdf](/Documentation/Servo_Phone_Mount_3D_Printing_Guide.pdf) for the tools and steps required to print the base.
 
-### 3. Assemble the Water Gun
+### 3. Assemble the Phone Stand
 
-Reference the [Assembly Guide](/Documentation/Switch_Adapted_Water_Gun_Assembly_Guide.pdf) for the tools and steps required to build the device.
+Reference the [Rotating_Phone_Stand_Assembly_Guide.pdf](/Documentation/Rotating_Phone_Stand_Assembly_Guide.pdf) for the tools and steps required to build the device.
 
 ## How to improve this Device
 As open source assistive technology, you are welcomed and encouraged to improve upon the design. 
@@ -40,22 +45,25 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 ## Files
 ### Documentation
 <!--- Update the name, link, and version for documentation --->
-| Document             | Version | Link |
-|----------------------|---------|------|
-| Design Rationale     | 1.0     | [Switch Adapted_Design_Rationale](/Documentation/Switch_Adapted_Water_Gun_Design_Rationale.pdf)    |
-| 3D Printing Guide    | 1.0     | [Switch Adapted Water Gun 3D Printing Guide](/Documentation/Switch_Adapted_Water_Gun_3D_Printing_Guide.docx.pdf)    |
-| Assembly Guide       | 1.0     | [Switch Adapted Water Gun Assembly Guide](/Documentation/Switch_Adapted_Water_Gun_Assembly_Guide.pdf)    |
-| Bill of Materials    | 1.0     | [Switch Adapted Water Gun_Bill_of_Materials](/Documentation/Switch_Adapted_Water_Gun_BOM.pdf)    |
-| User Guide           | 1.0     | [Switch Adapted Water Gun_User_Guide](/Documentation/Switch_Adapted_Water_Gun_User_Guide.pdf)   |
-| Maker Checklist      | 1.0     | [Switch Adapted Water Maker Checklist](/Documentation/Switch_Adapted_Water_Gun_Maker_Checklist.pdf)   |
+
+| Document             | Version | Link                                                                 |
+|----------------------|---------|----------------------------------------------------------------------|
+| Design Rationale*    | 1.0     |                                                                                                   |
+| 3D Printing Guide    | 1.0     | [Servo_Phone_Mount_3D_Printing_Guide.pdf](/Documentation/Servo_Phone_Mount_3D_Printing_Guide.pdf) |
+| Assembly Guide       | 1.0     | [Rotating_Phone_Stand_Assembly_Guide.pdf](/Documentation/Rotating_Phone_Stand_Assembly_Guide.pdf) |
+| Bill of Materials    | 1.0     | [Servo_Phone_Stand_Bill_of_Materials.pdf](/Documentation/Servo_Phone_Stand_Bill_of_Materials.pdf) |
+| User Guide           | 1.0     | [Rotating_Phone_Stand_User_Guide.pdf](/Documentation/Rotating_Phone_Stand_User_Guide.pdf)         |
+| Maker Checklist*     | 1.0     |                                                                                                   |
 
 ### Design Files
 <!--- Include a copy of the original design files to facilitate easy editing and customization. Consider also including a generic format (e.g., STEP) --->
- - [CAD File](/Design_Files/Water_Gun_Base.obj)
+- [Phone_Stand_Parts.obj](/Design_Files/Phone%20Stand%20Parts.obj)
+- [Servo_Base.obj](/Design_Files/Servo_Base.obj)
 
 ### Build Files
 <!--- Include a copy of the build files intended for manufacturing. This may include svg files for laser cutting, stl files for 3d printing, Gerber files for custom PCBs, and Arduino files for custom firmware. --->
- - [3D Printing Files](/Build_Files/3D_Printing_Files)
+- [Phone_Stand_Parts.stl](/Build_Files/3D_Printing_Files/Phone_Stand_Parts.stl)
+- [Servo_Base.stl](/Build_Files/3D_Printing_Files/Servo_Base.stl)
 
 ## Attribution
 <!--- Provide any necessary attribution for designs or components that are included in the device or as part of the project. --->
